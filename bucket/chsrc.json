@@ -1,16 +1,16 @@
 {
-    "version": "0.1.9",
+    "version": "0.2.5",
     "description": "Change Source for every software on every platform",
     "homepage": "https://github.com/RubyMetric/chsrc",
     "license": "GPL-3.0-or-later,MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/RubyMetric/chsrc/releases/download/v0.1.9/chsrc-x64-windows.exe#/chsrc.exe",
-            "hash": "512685937d62db478a9d552e9bc6b1112d60d01085f72d9e9b51f25603398e44"
+            "url": "https://github.com/RubyMetric/chsrc/releases/download/v0.2.5/chsrc-x64-windows.exe#/chsrc.exe",
+            "hash": "9d1429abe57dfe951230900169a64c4998776261f88f62dfd63cbcc0090cff81"
         },
         "32bit": {
-            "url": "https://github.com/RubyMetric/chsrc/releases/download/v0.1.9/chsrc-x86-windows.exe#/chsrc.exe",
-            "hash": "505f2aa5eedf639db4b1ece99628df6d55eb5453e5c7a2d9b6fbb2896906354f"
+            "url": "https://github.com/RubyMetric/chsrc/releases/download/v0.2.5/chsrc-x86-windows.exe#/chsrc.exe",
+            "hash": "b5db7e49c3c35660bfb07db81c54c23e8e8bf167eed041023e1f7150c1c65454"
         }
     },
     "bin": "chsrc.exe",

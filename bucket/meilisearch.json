@@ -1,12 +1,12 @@
 {
-    "version": "1.12.0",
+    "version": "1.43.0",
     "description": "An open-source RESTful search API written in Rust",
     "homepage": "https://github.com/meilisearch/meilisearch",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.12.0/meilisearch-windows-amd64.exe#/meilisearch.exe",
-            "hash": "489697af73251b53853f13a57dc06ac53b8d81901b36a93354e27a830b380a59"
+            "url": "https://github.com/meilisearch/meilisearch/releases/download/v1.43.0/meilisearch-windows-amd64.exe#/meilisearch.exe",
+            "hash": "8ed828ba2b29ab27925e04fbd66867b1e4a526d3a398b614b230a1996fcb12f4"
         }
     },
     "bin": "meilisearch.exe",

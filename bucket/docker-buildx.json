@@ -1,16 +1,16 @@
 {
-    "version": "0.19.3",
+    "version": "0.33.0",
     "description": "Docker CLI plugin for extended build capabilities with BuildKit",
     "homepage": "https://github.com/docker/buildx",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/docker/buildx/releases/download/v0.19.3/buildx-v0.19.3.windows-amd64.exe#/docker-buildx.exe",
-            "hash": "fc24c33d547764ffc67ed430f5561c4d1bcbbee73df47648668331fa1cc2f289"
+            "url": "https://github.com/docker/buildx/releases/download/v0.33.0/buildx-v0.33.0.windows-amd64.exe#/docker-buildx.exe",
+            "hash": "832ddf42373203ee3836a7cb3b16fe5080231491e7edb32019ac0f6fe03b99ed"
         },
         "arm64": {
-            "url": "https://github.com/docker/buildx/releases/download/v0.19.3/buildx-v0.19.3.windows-arm64.exe#/docker-buildx.exe",
-            "hash": "f799675f89cdff20c76bc0b17953045df2cea47d09613779c4bcfd63ebee7bd9"
+            "url": "https://github.com/docker/buildx/releases/download/v0.33.0/buildx-v0.33.0.windows-arm64.exe#/docker-buildx.exe",
+            "hash": "3f7a8129e21faf8c860efd14bbf0feb714c0aac9ca9c08dc4b39b39455d0bcf1"
         }
     },
     "bin": "docker-buildx.exe",

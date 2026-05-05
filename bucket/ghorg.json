@@ -1,20 +1,20 @@
 {
-    "version": "1.11.0",
+    "version": "1.11.10",
     "description": "Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more",
     "homepage": "https://github.com/gabrie30/ghorg",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gabrie30/ghorg/releases/download/v1.11.0/ghorg_1.11.0_Windows_x86_64.tar.gz",
-            "hash": "687a01f4dae247df043225cf68515a3450ace375c32d018200872b51c419e345"
+            "url": "https://github.com/gabrie30/ghorg/releases/download/v1.11.10/ghorg_1.11.10_Windows_x86_64.tar.gz",
+            "hash": "19574846eb1d04b1eaabecfd35b8eae1021086015230370b4eb5404362d7a970"
         },
         "32bit": {
-            "url": "https://github.com/gabrie30/ghorg/releases/download/v1.11.0/ghorg_1.11.0_Windows_i386.tar.gz",
-            "hash": "9d7de59785199f441243a4744b50fb7101a2ca15b79880b02acf0e078ea80750"
+            "url": "https://github.com/gabrie30/ghorg/releases/download/v1.11.10/ghorg_1.11.10_Windows_i386.tar.gz",
+            "hash": "ad51b2005e729447404614f86239e33ff16bcb1b582d10c5808236e21affa4c5"
         },
         "arm64": {
-            "url": "https://github.com/gabrie30/ghorg/releases/download/v1.11.0/ghorg_1.11.0_Windows_arm64.tar.gz",
-            "hash": "b35f8bf591ec3fa16ed93a93db17c45f60638124b3fedee8749485db4b611c56"
+            "url": "https://github.com/gabrie30/ghorg/releases/download/v1.11.10/ghorg_1.11.10_Windows_arm64.tar.gz",
+            "hash": "6e4d5530e0738c310dc3e957ce80f6c4d67c5fab91b719247ea88e470c9caa62"
         }
     },
     "bin": "ghorg.exe",

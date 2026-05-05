@@ -1,20 +1,20 @@
 {
-    "version": "4.4.0",
+    "version": "4.6.0",
     "description": "A user interface for JSON",
     "homepage": "https://hjson.github.io/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/hjson/hjson-go/releases/download/v4.4.0/hjson_v4.4.0_windows_amd64.zip",
-            "hash": "719ca62e862debdc95f17374c3a963992c322ca716856d40f7b617ffd9774d93"
+            "url": "https://github.com/hjson/hjson-go/releases/download/v4.6.0/hjson_v4.6.0_windows_amd64.zip",
+            "hash": "795ad3ae2f5ab341995fd2481eac1b1add9c1bf71210cbf397b3e93763123aba"
         },
         "32bit": {
-            "url": "https://github.com/hjson/hjson-go/releases/download/v4.4.0/hjson_v4.4.0_windows_386.zip",
-            "hash": "4c025122b099ba7108f52a5fe80ce307ee21d32a03a43f29fdae73e5aa8ee74a"
+            "url": "https://github.com/hjson/hjson-go/releases/download/v4.6.0/hjson_v4.6.0_windows_386.zip",
+            "hash": "4671c2f94bd21f746210409048cc64cc5cebc615babb1b2adf49473c3db3cd37"
         },
         "arm64": {
-            "url": "https://github.com/hjson/hjson-go/releases/download/v4.4.0/hjson_v4.4.0_windows_arm64.zip",
-            "hash": "5c5498ec4921037fe19b32427f0fb6dd24398cd45e6c707fdbb409a7b9f11a23"
+            "url": "https://github.com/hjson/hjson-go/releases/download/v4.6.0/hjson_v4.6.0_windows_arm64.zip",
+            "hash": "a068d376a620375d1ec69697da360ad96cc3a80d88a64b256242267995f3b0c3"
         }
     },
     "bin": [

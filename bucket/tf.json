@@ -1,16 +1,16 @@
 {
-    "version": "2.10.0",
+    "version": "2.12.0",
     "description": "Less verbose and more shell-friendly Terraform.",
     "homepage": "https://github.com/dex4er/tf",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dex4er/tf/releases/download/v2.10.0/tf-windows-amd64.exe#/tf.exe",
-            "hash": "621bfef8cb6d5998cc05ba16e1977a7b4428ca174ca0004904b6740f083e059d"
+            "url": "https://github.com/dex4er/tf/releases/download/v2.12.0/tf-windows-amd64.exe#/tf.exe",
+            "hash": "ba7a8756fdfd80f92227dce33285d16791cf70b1064cc041d7cc54cac30ff376"
         },
         "arm64": {
-            "url": "https://github.com/dex4er/tf/releases/download/v2.10.0/tf-windows-arm64.exe#/tf.exe",
-            "hash": "1cf329e9d25d2214bd98a658994e738f2d4695c67d6bb5238560307db0a6e010"
+            "url": "https://github.com/dex4er/tf/releases/download/v2.12.0/tf-windows-arm64.exe#/tf.exe",
+            "hash": "f74b187c5d1f8bf82613f84ab0bae774b64046b99bedf0f5bde5b4a707818053"
         }
     },
     "bin": "tf.exe",
